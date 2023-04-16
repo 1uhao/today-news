@@ -11,6 +11,9 @@
 
     <artifactId>today-news-service</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>today-news-service-user</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
